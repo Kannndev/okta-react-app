@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description
+
+This app contains the okta integration for authentication.
+Pass CLIENT_ID, ISSUER as env variables or add it in config.js file to get started
+
 ## Available Scripts
 
 In the project directory, you can run:
